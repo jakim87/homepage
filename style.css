@@ -1,11 +1,12 @@
 .body {
-    background: black;
+    background: whitesmoke;
 }
 .footer {
     background-color: whitesmoke;
 }
 .mainHeader {
     color: black;
+    size: 16
 }
 .sectionHeader {
     color: black;
