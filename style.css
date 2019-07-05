@@ -1,0 +1,28 @@
+.body {
+    background: grey;
+}
+.footer {
+    background-color: whitesmoke;
+}
+.mainHeader {
+    color: black;
+}
+.sectionHeader {
+    color: black;
+}
+
+h2 {
+    color: black;
+}
+h3 {
+    color: black;
+}
+p {
+    color: black;
+}
+footer {
+    color: black;
+}   
+.main {
+    background-color: whitesmoke;
+}
