@@ -1,12 +1,17 @@
-.body {
+.mainPage__body {
     background: whitesmoke;
+}
+
+.mainPage__header {
+    color: black;
+    position: fixed;
 }
 .footer {
     background-color: whitesmoke;
 }
-.mainHeader {
+.mainHeader, .mainPage__section {
     color: black;
-    size: 16
+    size: 16px;
 }
 .sectionHeader {
     color: black;
@@ -24,6 +29,8 @@ p {
 footer {
     color: black;
 }   
-.main {
+.mainPage__main {
     background-color: whitesmoke;
+    padding-left: 20%;
 }
+
