@@ -1,10 +1,15 @@
 .mainPage__body {
     background: whitesmoke;
+    min-width: 100%;
+    width: 100%;
 }
 
 .mainPage__header {
     color: black;
     position: fixed;
+    width: 150px;
+    height: 100%;
+    border-right: 1px solid black;
 }
 .footer {
     background-color: whitesmoke;
@@ -31,6 +36,6 @@ footer {
 }   
 .mainPage__main {
     background-color: whitesmoke;
-    padding-left: 20%;
+    padding-left: 150px;
+    width: 70%;
 }
-
