@@ -51,7 +51,7 @@ footer {
 }
 
 .pic_me {
-    position: absolute;
+    position: fixed;
     max-width: 350px;
     height: auto;
     right: 10px;
