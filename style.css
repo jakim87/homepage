@@ -1,16 +1,16 @@
 .mainPage__body {
-    background: whitesmoke;
+    background: #fff;
     min-width: 100%;
     width: 100%;
 }
 
-.mainPage__header {
+/* .mainPage__header {
     color: black;
     position: fixed;
     width: 150px;
     height: 100%;
     border-right: 1px solid black;
-}
+} */
 .footer {
     background-color: whitesmoke;
 }
@@ -36,6 +36,19 @@ footer {
 }   
 .mainPage__main {
     background-color: whitesmoke;
-    padding-left: 150px;
+    padding-left: 152px;
     width: 70%;
+}
+
+.mainPage__nav ol {
+    background-color: #fff;
+    padding: 0
+}
+.mainPage__nav-list {
+    list-style: none;
+    color: black;
+    position: fixed;
+    width: 150px;
+    height: 100%;
+    border-right: 1px solid black;
 }
