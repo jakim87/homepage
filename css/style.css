@@ -1,0 +1,60 @@
+.mainPage__body {
+    background: #fff;
+    min-width: 100%;
+    width: 100%;
+}
+.footer {
+    background-color: #fff;
+}
+.mainHeader, .mainPage__section {
+    color: black;
+    size: 16px;
+}
+.sectionHeader {
+    color: black;
+}
+
+h2 {
+    color: black;
+}
+h3 {
+    color: black;
+}
+p {
+    color: black;
+}
+footer {
+    color: black;
+}   
+.mainPage__main {
+    background-color: #fff;
+    padding-left: 152px;
+    width: 70%;
+}
+
+.mainPage__nav {
+    width: 150px;
+    border: 150px;
+}
+
+.mainPage__nav ol {
+    background-color: #fff;
+    padding: 0;
+}
+.mainPage__nav-list {
+    list-style: none;
+    color: black;
+    position: fixed;
+    width: 150px;
+    height: 100%;
+    border-right: 1px solid black;
+}
+
+.pic_me {
+    position: fixed;
+    max-width: 350px;
+    height: auto;
+    right: 10px;
+    margin-left: 10px;
+    border-radius: 50%
+}
